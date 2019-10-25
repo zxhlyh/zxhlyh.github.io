@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason Zhang</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Jason Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 16:38:52 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开博第一篇</title>
+      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+      <pubDate>Fri, 25 Oct 2019 16:38:52 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
+      <description>pending</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>前端一枚
+邮箱：jasonapring2015@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
